@@ -1,0 +1,4 @@
+﻿  sem2_lab2.cpp
+d:\учеба\оаип\лабы\2 семестр\lab_2\sem2_lab2\sem2_lab2\sem2_lab2.cpp(322): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\учеба\оаип\лабы\2 семестр\lab_2\sem2_lab2\sem2_lab2\sem2_lab2.cpp(446): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sem2_lab2.vcxproj -> D:\Учеба\ОАИП\Лабы\2 семестр\Lab_2\sem2_lab2\Debug\sem2_lab2.exe

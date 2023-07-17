@@ -1,0 +1,17 @@
+﻿  sem1_lab2.3.1_oaip.cpp
+c:\program files (x86)\microsoft visual studio\2017\wdexpress\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+  c:\program files (x86)\microsoft visual studio\2017\wdexpress\vc\tools\msvc\14.16.27023\include\xutility(1107): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool std::_Debug_lt_pred<_Pr&,const _Ty&,const _Ty&>(double&,_Ty1,_Ty2) noexcept(<expr>)"
+          with
+          [
+              _Pr=double,
+              _Ty=double,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\wdexpress\vc\tools\msvc\14.16.27023\include\algorithm(5407): note: выполняется компиляция ссылки на экземпляр шаблон функции "const _Ty &std::min<double,double>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)"
+          with
+          [
+              _Ty=double,
+              _Pr=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\wdexpress\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2056: недопустимое выражение

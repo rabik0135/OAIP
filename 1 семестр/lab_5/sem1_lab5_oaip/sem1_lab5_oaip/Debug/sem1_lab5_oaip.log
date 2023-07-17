@@ -1,0 +1,3 @@
+﻿  sem1_lab5_oaip.cpp
+d:\учеба\оаип\лабы\1 семестр\lab_5\sem1_lab5_oaip\sem1_lab5_oaip\sem1_lab5_oaip.cpp(51): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sem1_lab5_oaip.vcxproj -> D:\Учеба\ОАИП\Лабы\1 семестр\lab_5\sem1_lab5_oaip\Debug\sem1_lab5_oaip.exe
